@@ -1,5 +1,5 @@
 > Created by **Rob Palmer** — direct-response copywriter ($523M+ tracked).
-> Source & updates: https://github.com/robpalmer/claude-code-copywriting-skills
+> Source & updates: https://github.com/robpalmer99/claude-code-copywriting-skills
 > Free under CC-BY-4.0. Attribution requested when redistributed.
 
 # Copychief Skill

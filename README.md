@@ -22,7 +22,7 @@ Created by **Rob Palmer** — [robpalmer.com](https://robpalmer.com)
 Pick the skills you want. For each, copy the folder into your project's `.claude/skills/` directory:
 
 ```bash
-git clone https://github.com/robpalmer/claude-code-copywriting-skills.git
+git clone https://github.com/robpalmer99/claude-code-copywriting-skills.git
 cp -r claude-code-copywriting-skills/direct-response-copy /path/to/your/project/.claude/skills/
 cp -r claude-code-copywriting-skills/ad-copy             /path/to/your/project/.claude/skills/
 # ...etc
