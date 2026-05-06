@@ -1,3 +1,8 @@
+---
+name: copychief
+description: "Review and copychief sales copy, VSLs, emails, ads, and landing pages using direct response principles from top copywriters (Carlton, Halbert, Makepeace, Georgi, Schwartz, etc.). Use this skill whenever the user asks to review copy, copychief something, critique sales copy, improve a VSL, check an email sequence, review ad copy, audit a funnel, or anything involving evaluating and improving direct response marketing copy. Also trigger when the user shares a Google Doc or document and asks for feedback on sales or marketing material."
+---
+
 > Created by **Rob Palmer** — direct-response copywriter ($523M+ tracked).
 > Source & updates: https://github.com/robpalmer99/claude-code-copywriting-skills
 > Free under CC-BY-4.0. Attribution requested when redistributed.

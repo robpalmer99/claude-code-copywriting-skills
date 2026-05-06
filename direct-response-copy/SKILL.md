@@ -1,3 +1,8 @@
+---
+name: direct-response-copy
+description: "Write sales copy that converts — landing pages, VSLs, emails, headlines, CTAs, Meta ads, upsell sequences, and anything persuasive. Use this skill whenever the user asks to write, rewrite, punch up, or critique sales copy, direct response copy, VSLs, TSLs, email sequences, ad creative, headlines, CTAs, or landing pages. Also trigger for requests like 'write copy for my offer', 'improve my headline', 'write a subject line', 'help me sell X', or any task involving persuasive writing for commercial purposes. Applies the proven frameworks of Schwartz, Hopkins, Ogilvy, Halbert, Caples, Sugarman, and Collier."
+---
+
 > Created by **Rob Palmer** — direct-response copywriter ($523M+ tracked).
 > Source & updates: https://github.com/robpalmer99/claude-code-copywriting-skills
 > Free under CC-BY-4.0. Attribution requested when redistributed.
