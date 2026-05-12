@@ -412,6 +412,59 @@ When building a complete landing page:
 
 ---
 
+## Video scripts: format for the editor
+
+When the deliverable is a VSL, TSL, video ad, or any script that hands off to a video editor, the format matters as much as the words. The editor is a creative collaborator, not a transcriber. Over-specifying visuals slows them down and signals you don't trust their craft.
+
+The rule: **deliver the voiceover as the primary artifact, with minimal directions. Add a visual cue only where something specific must happen.**
+
+### Why a lean script ships faster
+
+Editors read bracketed notes as mandatory, not suggestive. A heavily directed script — [CUT TO X], [B-ROLL Y], [TRANSITION Z] on every line — reads as a contract. So instead of moving, the editor schedules a call to "align on the directions" before touching the timeline. The script that looks more thorough actually delays the cut. Counterintuitively, a sparser script gives them permission to do their best work.
+
+Most editors will choose better B-roll, transitions, music, and pacing than you'd describe in brackets. Leave that lane open for them.
+
+### Default: voiceover only
+
+The bulk of the document is plain paragraphs of what the narrator says, broken naturally for breath and emphasis. No section headers like "Hook / Problem / Promise" inside the script itself — those belong in a separate one-line note at the top if at all, not in the deliverable the editor reads.
+
+### When to add a bracketed visual direction
+
+Only when one of these is true:
+
+- A number, claim, or quote **must appear on-screen** so the viewer registers it (price, statistic, guarantee terms, URL)
+- A **product shot, screen recording, or specific supplied asset** has to appear at a precise moment, and the audio alone doesn't make it obvious
+- A **comedic or dramatic beat depends on visual timing** — a punchline reveal, a hard cut, a freeze frame
+- A piece of **B-roll is non-obvious or counterintuitive** and the script reads differently with it than without it
+
+Outside of these, stay silent and let the editor work.
+
+### What this looks like
+
+**Over-directed (triggers a clarification meeting):**
+
+> [CUT TO: extreme close-up of clock ticking] [B-ROLL: stressed man at desk, papers flying] "Most people waste 4 hours every morning..." [TRANSITION: hard cut to bright kitchen] [B-ROLL: woman smiling, sipping coffee] "...but there's a faster way to start the day."
+
+**Right amount (editor moves immediately):**
+
+> "Most people waste 4 hours every morning... but there's a faster way to start the day."
+>
+> [ON-SCREEN: "4 hours = 1,460 hours/year"]
+
+The on-screen text is there because the number needs visual anchoring. The imagery, mood, and cuts are the editor's call.
+
+### Format conventions
+
+- Voiceover: plain text, no quotes around it, paragraph breaks where the narrator should breathe
+- Direction cue: bracketed, all caps tag, brief — e.g., `[ON-SCREEN: "$47/month"]`, `[B-ROLL: founder at whiteboard]`, `[PRODUCT SHOT]`
+- Keep cues to one line. If a cue needs a paragraph of explanation, that's a sign it should be a conversation with the editor before they start, not a direction baked into the script.
+
+### If the user asks for a "full shot list" or "shooting script"
+
+That's a different deliverable from a VSL handoff to an editor working with stock and existing footage. Confirm before producing one — most of the time, the lean voiceover-first script is what's actually wanted, and a full shot list slows the workflow rather than helping it.
+
+---
+
 ## AI tells to avoid
 
 **Overused words:** delve, dive into, comprehensive, robust, cutting-edge, utilize, leverage, crucial, vital, essential, unlock, unleash, supercharge, game-changer, revolutionary, landscape, navigate, streamline
