@@ -1,6 +1,6 @@
 # Claude Code Copywriting Skills
 
-Seven free Claude Code skills for direct response copywriting — ad angles, static ad concepts, sales pages, Meta ads, landing pages, copy reviews, and compliance checking. Built on 40+ years of direct-response experience and **$523M+ in tracked campaign results**.
+Eight free Claude Code skills for direct response copywriting — ad angles, static ad concepts, sales pages, Meta ads, landing pages, copy reviews, compliance checking, and funnel teardowns. Built on 40+ years of direct-response experience and **$523M+ in tracked campaign results**.
 
 Created by **Rob Palmer** — [robpalmer.com](https://robpalmer.com)
 
@@ -17,6 +17,7 @@ Created by **Rob Palmer** — [robpalmer.com](https://robpalmer.com)
 | [`ad-copy/`](./ad-copy/SKILL.md) | Write high-converting Meta (Facebook + Instagram) ad copy: primary text, headlines, UGC scripts, video ads. |
 | [`landing-page-copy/`](./landing-page-copy/SKILL.md) | Write short-form bridge pages and pre-sell landers that sit between ads and VSLs/offers. |
 | [`copychief/`](./copychief/SKILL.md) | Review sales copy the way a senior creative director would — line-by-line, with specific rewrites. |
+| [`funnel-teardown/`](./funnel-teardown/SKILL.md) | Tear down a live competitor funnel page by page with congruency flags, swipe a video ad scene by scene, or model a proven page's structure into original copy for your offer behind a mandatory compliance gate. |
 | [`compliance-checker/`](./compliance-checker/SKILL.md) | Audit ads, landing pages, VSLs, and emails against Meta/Facebook, Google, TikTok, YouTube, and ClickBank policies. |
 
 ## Install
@@ -34,7 +35,7 @@ Or copy individual `SKILL.md` files (and their `references/` folders, where pres
 
 Claude Code auto-detects skills from `.claude/skills/`. The `description` in each `SKILL.md`'s YAML frontmatter triggers the skill automatically when you ask Claude something matching its purpose.
 
-The `angle-finder`, `static-ad`, `ad-copy` and `compliance-checker` skills also include reference files (`references/voc-sources.md`, `references/hook-to-visual-patterns.md` and `references/product-absent-brief.md`, `references/meta-ad-specs.md`, and `references/trigger-words.md`). Keep those alongside `SKILL.md` inside each skill folder — the skill reads them automatically.
+The `angle-finder`, `static-ad`, `ad-copy`, `compliance-checker` and `funnel-teardown` skills also include reference files (`references/voc-sources.md`; `references/hook-to-visual-patterns.md` and `references/product-absent-brief.md`; `references/meta-ad-specs.md`; `references/trigger-words.md`; `references/output-templates.md`). Keep those alongside `SKILL.md` inside each skill folder — the skill reads them automatically.
 
 ## Workflow
 
@@ -44,6 +45,7 @@ These skills are designed to chain:
 1. **Draft** with `direct-response-copy` (long-form) or `ad-copy` (Meta ads) or `landing-page-copy` (bridge pages); for statics, `static-ad` pairs the copy with its image brief and runs the variation matrix
 2. **Review** with `copychief` — line-level feedback with specific rewrites
 3. **Comply** with `compliance-checker` before submitting paid ads
+4. **Diagnose** a live funnel (yours or a competitor's) with `funnel-teardown`, and model a proven page's structure into original copy with its compliance gate
 
 ## License
 
